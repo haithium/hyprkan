@@ -1,3 +1,5 @@
+
+
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 # Hyprkan ⌨️
@@ -63,7 +65,7 @@ After downloading hyprkan:
 | `-p`, `--port PORT`                      | Kanata server port (e.g., `10000`) or full address (e.g., `127.0.0.1:10000`)                                   |
 | `--change-layer LAYER`                   | Switch to the specified layer and exit                                                                         |
 | `--fake-key KEY_NAME ACTION`             | Trigger a virtual key action and exit                                                                          |
-| `--set-mouse X Y`                        | Set mouse position to (`X`, `Y`) and exit <br> ⚠️ This option is not supported on Linux as of Kanata `v1.8.1`. |
+| `--set-mouse X Y`                        | Set mouse position to the integer coordinates (`X`, `Y`) and exit <br> ⚠️ This option is not supported on Linux as of Kanata `v1.8.1`. |
 | `-h`, `--help`                           | Print the help message and exit                                                                                |
 | `--current-layer-info`                   | Print detailed info about the current active Kanata layer and exit                                             |
 | `--current-layer-name`                   | Print the current active Kanata layer and exit                                                                 |
